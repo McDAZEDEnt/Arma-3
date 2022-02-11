@@ -1,0 +1,5 @@
+*.*
+!.gitignore
+!mcdazed.bikey
+!*mcdazed.bisign
+!*.sh
