@@ -1,4 +1,6 @@
 *.*
+LICENSE
+$PREFIX$
 !.gitignore
 !mcdazed.bikey
 !*mcdazed.bisign
